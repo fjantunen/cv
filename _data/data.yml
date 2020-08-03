@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Frank Jantunen
-    tagline: sysadmin
+    tagline: Cloud Infrastructure Engineer | Systems Administrator | Streaming Solutions Architect | CDN Specialist
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,11 +16,11 @@ sidebar:
     phone: 954.247.4254
     website: gmpeg.com #do not add http://
     linkedin: frank.jantunen
-    github: fjantunen
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,31 +29,29 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Finnish
+        level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Novice
 
     interests:
-      - item: Climbing
+      - item: fitness
         link:
 
-      - item: Snowboarding
+      - item: nutrition
         link:
 
-      - item: Cooking
+      - item: biohacking
+        link:
+
+      - item: photography
         link:
 
 career-profile:
-    title: Career Profile
+    title: Executive Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella). 
 education:
     - degree: MSc in Computer Science
       university: University of London
