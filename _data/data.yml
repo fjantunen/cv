@@ -80,16 +80,6 @@ skills:
 
     toolset:
       - name: System <br><br> 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, Vista, 7, 8, 10, 2K, 2K8, 2K12, 2K16, CE, PE, IOT, Embedded, Ubuntu, CentOS, Debian
-        level: 90%
-
-      - name: Cloud <br><br> GCP, AWS, Azure, Hybrid Cloud, NewCloud, Elisa, Telenor
-        level: 75%
-
-      - name: Server <br><br> Active Directory, Exchange, SQL, SharePoint, File Sharing, S/FTP, LDAP, SSH, VPN, Anti-Virus, Anti-Malware, IDS, SCOM, SCCM, Storage, SSO, Backup
-        level: 80%
-
-      - name: Virtualization <br><br> Nutanix, VirtualBox, VMWare, Hyper V, Virtual Layers, Portable Apps, Docker, App Virtualization, VDI, Virtual Desktops, Amazon Workspaces, Citrix Virtual Apps & Desktops
-        level: 75%
 
 
 experiences:
@@ -119,7 +109,7 @@ experiences:
         - Supporting Legacy Ubuntu Linux Manufacturing OnPrem and AWS environments
         - Working with Google Kubernetes Engine GKE on in Google Cloud Platform
         - Worked On Implementing SLA, SLOs for various products
-        
+
     - role: Solutions Architect
       time: 07/2013 – 04/2018
       company: Onstream Media | Pompano Beach, FL
