@@ -15,9 +15,9 @@ sidebar:
     email: frank@gmpeg.com
     phone: +1-954-247-4254
     linkedin: frankjantunen
-    website: gmpeg.com #do not add http://
-    website2: resume.gmpeg.com #do not add http://
-    website3: about.me/frankjantunen #do not add http://
+    website:  #do not add http://
+    website2:  #do not add http://
+    website3:  #do not add http://
     github:
     telegram: # add your nickname without '@' sign
     gitlab:
