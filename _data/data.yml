@@ -5,7 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
+    career-profile: False
     # Profile information
     name: Frank Jantunen
     tagline: Cloud Infrastructure Engineer<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
@@ -73,6 +73,22 @@ education:
       time: 1999
       details: |
           - National Vocational Technical Honor Society (Top 2% Nationwide)
+
+
+skills:
+    title: Skills
+
+    toolset:
+      - name: Systems
+        level: 90%
+
+      - name: Servers
+        level: 85%
+
+      - name: Virtualization
+        level: 80%
+
+
 experiences:
     - role: Infrastructure Engineer / Systems Administrator
       time: 05/2018 – 06/2020
@@ -150,16 +166,3 @@ experiences:
         - Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
         - Achieved KPIs included reduction in time to completion for operational task workflows
         - Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
-
-skills:
-    title: Technical Skills
-
-    toolset:
-      - name: Systems
-        level: 90%
-
-      - name: Servers
-        level: 85%
-
-      - name: Virtualization
-        level: 80%
