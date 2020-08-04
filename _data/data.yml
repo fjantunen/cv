@@ -116,10 +116,10 @@ experiences:
         - Supporting instances in Amazon AWS and Google Cloud (GCP)
         - Node.js & noVNC VDI workspaces in cloud
         - SME on Agile / Kaizen / Kanban (Certified) / DevOps / SRE methodologies
-
-Supporting Legacy Ubuntu Linux Manufacturing OnPrem and AWS environments
-Working with Google Kubernetes Engine GKE on in Google Cloud Platform
-Implementing SLA, SLOs for various products
+        - Supporting Legacy Ubuntu Linux Manufacturing OnPrem and AWS environments
+        - Working with Google Kubernetes Engine GKE on in Google Cloud Platform
+        - Worked On Implementing SLA, SLOs for various products
+        
     - role: Solutions Architect
       time: 07/2013 – 04/2018
       company: Onstream Media | Pompano Beach, FL
