@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Frank Jantunen
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: frank@gmpeg.com
-    phone: 954.247.4254
+    phone: +1.954.247.4254
     website: gmpeg.com #do not add http://
     linkedin: frank.jantunen
     github:
@@ -53,17 +53,11 @@ career-profile:
     summary: |
       An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella).
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Modern Business Tech I & II
+      school: North Valley Vocational Technical Center
+      time: 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - National Vocational Technical Honor Society (Top 2% Nationwide)
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
