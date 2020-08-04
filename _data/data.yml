@@ -54,21 +54,15 @@ career-profile:
       An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella).
 education:
     - degree: Modern Business Tech I & II
-      school: North Valley Vocational Technical Center
+      university: North Valley Vocational Technical Center
       time: 1999
       details: |
           - National Vocational Technical Honor Society (Top 2% Nationwide)
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Modern Business Tech I & II
+      university: North Valley Vocational Technical Center
+      time: 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - National Vocational Technical Honor Society (Top 2% Nationwide)
 experiences:
     - role: Lead Developer
       time: 2015 - Present
