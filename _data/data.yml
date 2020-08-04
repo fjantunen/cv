@@ -58,11 +58,16 @@ career-profile:
     summary: |
       An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella).
 education:
-    - degree: Modern Business Tech I & II
-      university: North Valley Vocational Technical Center
-      time: 1999
+    - degree: Team Kanban Practitioner
+      university: Kanban University
+      time: 2020
       details: |
-          - National Vocational Technical Honor Society (Top 2% Nationwide)
+          - Project management in Kanban, Agile, and Kaizen Methodology
+    - degree: ITIL Foundation
+      university: APMG International
+      time: 2012
+      details: |
+          - ITIL v3
     - degree: Modern Business Tech I & II
       university: North Valley Vocational Technical Center
       time: 1999
