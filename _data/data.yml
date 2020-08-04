@@ -8,7 +8,7 @@ sidebar:
     skills: False
     # Profile information
     name: Frank Jantunen
-    tagline: Cloud Infrastructure Engineer<p>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
+    tagline: Boca Raton, FL
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,17 +44,22 @@ career-profile:
 education:
     - degree: Team Kanban Practitioner
       university: Kanban University
-      time: 2020
+      time: 
       details: |
           - Project management in Kanban, Agile, and Kaizen Methodology
     - degree: ITIL Foundation
       university: APMG International
-      time: 2012
+      time:
+      details: |
+          - ITIL v3
+    - degree: Certified Internet Webmaster Associate (CIW)
+      university: Certification Partners (CIW)
+      time:
       details: |
           - ITIL v3
     - degree: Modern Business Tech I & II
       university: North Valley Vocational Technical Center
-      time: 1999
+      time:
       details: |
           - National Vocational Technical Honor Society (Top 2% Nationwide)
 
