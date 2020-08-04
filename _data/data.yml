@@ -5,7 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    career-profile: False
+    skills: False
     # Profile information
     name: Frank Jantunen
     tagline: Cloud Infrastructure Engineer<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
@@ -54,7 +54,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Executive Summary
+    title: Summary
     summary: |
       An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella).
 education:
@@ -79,7 +79,7 @@ skills:
     title: Skills
 
     toolset:
-      - name: Systems
+      - name: Systems <br> 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8, 2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
         level: 90%
 
       - name: Servers
