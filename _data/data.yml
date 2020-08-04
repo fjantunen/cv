@@ -8,7 +8,7 @@ sidebar:
     skills: False
     # Profile information
     name: Frank Jantunen
-    tagline: Cloud Infrastructure Engineer<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
+    tagline: Cloud Infrastructure Engineer<p>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -190,7 +190,7 @@ experiences:
 
     - role: IT / AV Specialist
       time: 06/2000 – 06/2003
-      company: 1-Verkko PrimeNet / Strategic Visions| Helsinki, Finland
+      company: 1-Verkko PrimeNet / Strategic Visions | Helsinki, Finland
       details: |
         - Responsible for multiple NT4 / 2K / XP workstations and multiple NT4 servers
         - Maintained user office productivity suites, firewalls, and basic security needs
