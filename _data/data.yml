@@ -44,7 +44,7 @@ career-profile:
 education:
     - degree: Team Kanban Practitioner
       university: Kanban University
-      time: 
+      time:
       details: |
           - Project management in Kanban, Agile, and Kaizen Methodology
     - degree: ITIL Foundation
@@ -52,11 +52,11 @@ education:
       time:
       details: |
           - ITIL v3
-    - degree: Certified Internet Webmaster Associate (CIW)
+    - degree: Certified Internet Webmaster (CIW)
       university: Certification Partners (CIW)
       time:
       details: |
-          - ITIL v3
+          - CIW Associate
     - degree: Modern Business Tech I & II
       university: North Valley Vocational Technical Center
       time:
