@@ -37,22 +37,6 @@ sidebar:
       - idiom: Spanish
         level: Novice
 
-    interests:
-      - item: fitness
-        link:
-
-      - item: nutrition
-        link:
-
-      - item: personal development
-        link:
-
-      - item: biohacking
-        link:
-
-      - item: photography
-        link:
-
 career-profile:
     title: Summary
     summary: |
