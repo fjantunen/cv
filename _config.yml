@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Frank's Resume
+title: Résumé_Jantunen_Frank
 url: 'http://resume.gmpeg.com'
 baseurl: '/online-cv' #change it according to your repository name
 description:
