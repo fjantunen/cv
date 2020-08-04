@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Frank Jantunen
-    tagline: Cloud Infrastructure Engineer<<br>Systems Administrator<br><Streaming Solutions Architect<br>CDN Specialist
+    tagline: Cloud Infrastructure Engineer<<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -74,21 +74,25 @@ education:
       details: |
           - National Vocational Technical Honor Society (Top 2% Nationwide)
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Infrastructure Engineer / Systems Administrator
+      time: 05/2018 – 06/2020
+      company: Magic Leap | Plantation, FL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Managed global production and development (Nutanix, VMWare, Windows) infrastructure
+        Responsible for dedicated US Manufacturing and LATAM Manufacturing IT Support
+        Coordinated network zero-trust (micro-segmentation) efforts for sensitive assets
+        Lead multiple war rooms as incident commander to swift resolutions
+        Coordinated and published detailed blameless postmortems (RCAs / Root Cause Analysis) and executed detailed action items to mitigate issues (Chaos Engineering)
+        Executed disaster recovery and business continuity planning for manufacturing
+        Documented systems, processes, and statuses for ORR (Operational Readiness Review)
+        Worked on CI/CD IaC Pipelines (Git, BitBucket repos, Concourse CI, Terraform, PagerDuty, Slack, AWS, GCP - Google Cloud Platform, Hybrid Cloud, OnPrem, JSON, YAML, XML...)
+        IT SME for manufacturing systems, both industry standard and proprietary
+        IT SME for MES/MIS, EP, NPI, VOA, Optics, Metrology, and R&D, Physical Security  teams
+        Identified and mitigated single points of failure and implemented HA solutions
+        Cross trained as Devops (Google SRE Model, CI/CD, SecDevOps, Network, Observability...)
+        Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
+        Achieved KPIs included reduction in time to completion for operational task workflows
+        Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -117,7 +121,10 @@ skills:
 
     toolset:
       - name: Systems
-        level: 98%
+        level: 90%
 
       - name: Servers
-        level: 98%
+        level: 85%
+
+      - name: Virtualization
+        level: 80%
