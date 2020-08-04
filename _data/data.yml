@@ -15,7 +15,7 @@ sidebar:
     email: frank@gmpeg.com
     phone: +1-954-247-4254
     linkedin: frank.jantunen
-    website: gmpeg.com #do not add http://    
+    website: gmpeg.com #do not add http://
     github:
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -69,7 +69,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
+Professional Experience:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
