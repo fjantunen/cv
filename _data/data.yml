@@ -16,6 +16,8 @@ sidebar:
     phone: +1-954-247-4254
     linkedin: frank.jantunen
     website: gmpeg.com #do not add http://
+    website2: resume.gmpeg.com #do not add http://
+    website3: about.me/frankjantunen #do not add http://
     github:
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -49,7 +51,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Summary
+    title: Executive Summary
     summary: |
       An IT Professional With 20 Years Experience In Hypergrowth Scenarios From The Following Industries: VC Manufacturing AR Tech Startups (Magic Leap), Broadcast Media (Onstream Media), SaaS Cloud Hosting HR / Finance (Aditro), Managed Services (HP), Real Estate / Corporate Finance (Catella).
 education:
@@ -103,7 +105,7 @@ experiences:
           - Bullet point
 
 skills:
-    title: Skills
+    title: Technical Skills
 
     toolset:
       - name: System Administration
