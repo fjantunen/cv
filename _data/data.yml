@@ -109,60 +109,112 @@ experiences:
         - Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
         - Achieved KPIs included reduction in time to completion for operational task workflows
         - Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
-    - role: Infrastructure Engineer / Systems Administrator
-      time: 05/2018 – 06/2020
-      company: Magic Leap | Plantation, FL
+        - Created golden images, server hardening, deployments and upgrades
+        - Supporting instances in Amazon AWS and Google Cloud (GCP)
+        - Node.js & noVNC VDI workspaces in cloud
+        - SME on Agile / Kaizen / Kanban (Certified) / DevOps / SRE methodologies
+
+Supporting Legacy Ubuntu Linux Manufacturing OnPrem and AWS environments
+Working with Google Kubernetes Engine GKE on in Google Cloud Platform
+Implementing SLA, SLOs for various products
+    - role: Solutions Architect
+      time: 07/2013 – 04/2018
+      company: Onstream Media | Pompano Beach, FL
       details: |
-        - Managed global production and development (Nutanix, VMWare, Windows) infrastructure
-        - Responsible for dedicated US Manufacturing and LATAM Manufacturing IT Support
-        - Coordinated network zero-trust (micro-segmentation) efforts for sensitive assets
-        - Lead multiple war rooms as incident commander to swift resolutions
-        - Coordinated and published detailed blameless postmortems (RCAs / Root Cause Analysis) and executed detailed action items to mitigate issues (Chaos Engineering)
-        - Executed disaster recovery and business continuity planning for manufacturing
-        - Documented systems, processes, and statuses for ORR (Operational Readiness Review)
-        - Worked on CI/CD IaC Pipelines (Git, BitBucket repos, Concourse CI, Terraform, PagerDuty, Slack, AWS, GCP - Google Cloud Platform, Hybrid Cloud, OnPrem, JSON, YAML, XML...)
-        - IT SME for manufacturing systems, both industry standard and proprietary
-        - IT SME for MES/MIS, EP, NPI, VOA, Optics, Metrology, and R&D, Physical Security  teams
-        - Identified and mitigated single points of failure and implemented HA solutions
-        - Cross trained as Devops (Google SRE Model, CI/CD, SecDevOps, Network, Observability...)
-        - Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
-        - Achieved KPIs included reduction in time to completion for operational task workflows
-        - Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
-    - role: Infrastructure Engineer / Systems Administrator
-      time: 05/2018 – 06/2020
-      company: Magic Leap | Plantation, FL
+        - Responsible for all technical aspects of webcasting operations in FL, NY, CA, & Virtual
+        - Created best practices for new deployments and incident resolution
+        - Implemented monitoring services for various web applications / streaming services
+        - Implemented ISO 27001 compliance, SOX , and various ITIL service life cycles
+        - Implemented ISP migration to Comcast Business and private EPL lines
+        - Managed IT service continuity plan and recovery plan during disasters
+        - Designed and implemented unmanned remote operations workflow for Encompass Waterfront Fiber signal acquisition to FL, CO, Azure, and AWS destinations
+        - Jointly responsible for colocation to private cloud migration from Peak10 to NewCloud
+        - Responsible for managing all live and on-demand content using internal tools and cross referencing data with various CDN web applications (Akamai, Internap…)
+        - Created automated scripted workflows for content (A/V) assets
+        - Implemented new solutions for end user self-encoding (device agnostic) and mobile
+        - Managed 3rd party integrations with vendors like RAMP, Hive Streaming, Wowza...
+        - Managed cloud assets in NewCloud, AWS, Azure
+        - Managed Edgecast to Internap CDN migration
+
+    - role: Production Specialist
+      time: 02/2012 – 06/2013
+      company: Aditro| Espoo, Finland
       details: |
-        - Managed global production and development (Nutanix, VMWare, Windows) infrastructure
-        - Responsible for dedicated US Manufacturing and LATAM Manufacturing IT Support
-        - Coordinated network zero-trust (micro-segmentation) efforts for sensitive assets
-        - Lead multiple war rooms as incident commander to swift resolutions
-        - Coordinated and published detailed blameless postmortems (RCAs / Root Cause Analysis) and executed detailed action items to mitigate issues (Chaos Engineering)
-        - Executed disaster recovery and business continuity planning for manufacturing
-        - Documented systems, processes, and statuses for ORR (Operational Readiness Review)
-        - Worked on CI/CD IaC Pipelines (Git, BitBucket repos, Concourse CI, Terraform, PagerDuty, Slack, AWS, GCP - Google Cloud Platform, Hybrid Cloud, OnPrem, JSON, YAML, XML...)
-        - IT SME for manufacturing systems, both industry standard and proprietary
-        - IT SME for MES/MIS, EP, NPI, VOA, Optics, Metrology, and R&D, Physical Security  teams
-        - Identified and mitigated single points of failure and implemented HA solutions
-        - Cross trained as Devops (Google SRE Model, CI/CD, SecDevOps, Network, Observability...)
-        - Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
-        - Achieved KPIs included reduction in time to completion for operational task workflows
-        - Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
-    - role: Infrastructure Engineer / Systems Administrator
-      time: 05/2018 – 06/2020
-      company: Magic Leap | Plantation, FL
+        - Administered users from 1200+ companies on multiple vms in 5 countries in 2 datacenters
+        - Administered cloud based production & staging environment (HR, Finance, BPO)
+        - Responsible for country specific demo, client specific test, and sandbox environments
+        - Developed rapid deployment procedures focusing on multitenancy
+        - Developed hybrid “dedicated” cloud solutions for key clients
+        - Created documentation for various products and maintained sharepoint repository
+        - Created best practices for deployments and incident resolution
+        - Designed automation for web (IIS) and client (XenApp hosted) application deployments
+        - Managed VMWare / Server 2003/2008/2012 server environment
+        - Managed suite upgrade planning, deployment, multi-tenant allocation, and isolation projects
+        - Central role in ITIL change management & problem management processes
+        - Implemented SSO and federation services for key clients
+        - Automated several production processes for deployment and scaling
+        - Business line grew  from 500+ customers to 1200, on track for 2200+ by Q4 2013
+        - Handled Tier III Nordic Private Suite Tickets (Norway, Sweden)
+        - Assisted with data center redundancy project and Azure asset implementation
+        - Resolved a record number of tickets in the company
+
+    - role: Technical Producer
+      time: 01/2011 – 12/2011
+      company: Magneetto Media | Helsinki, Finland
       details: |
-        - Managed global production and development (Nutanix, VMWare, Windows) infrastructure
-        - Responsible for dedicated US Manufacturing and LATAM Manufacturing IT Support
-        - Coordinated network zero-trust (micro-segmentation) efforts for sensitive assets
-        - Lead multiple war rooms as incident commander to swift resolutions
-        - Coordinated and published detailed blameless postmortems (RCAs / Root Cause Analysis) and executed detailed action items to mitigate issues (Chaos Engineering)
-        - Executed disaster recovery and business continuity planning for manufacturing
-        - Documented systems, processes, and statuses for ORR (Operational Readiness Review)
-        - Worked on CI/CD IaC Pipelines (Git, BitBucket repos, Concourse CI, Terraform, PagerDuty, Slack, AWS, GCP - Google Cloud Platform, Hybrid Cloud, OnPrem, JSON, YAML, XML...)
-        - IT SME for manufacturing systems, both industry standard and proprietary
-        - IT SME for MES/MIS, EP, NPI, VOA, Optics, Metrology, and R&D, Physical Security  teams
-        - Identified and mitigated single points of failure and implemented HA solutions
-        - Cross trained as Devops (Google SRE Model, CI/CD, SecDevOps, Network, Observability...)
-        - Drafted OKRs (Objective and Key Results) and KPI metrics (Key Performance Indicators)
-        - Achieved KPIs included reduction in time to completion for operational task workflows
-        - Optimized Kanban workflow to reduce lead times and facilitate quicker replenishment
+        - Responsible for all live event production and technical issues
+        - Managed all live and on-demand content on internal servers as well as CDN accounts
+        - Designed and deployed new mobile encoders
+        - Redesigned existing encoding infrastructure
+        - Designed and deployed permanent remote encoding studios
+        - Coordinated migrations to new CDN and CMS
+        - Responsible for all corporate IT management and systems administration
+        - Managed Active Directory, Office 365, and various web applications
+        - Responsible for Nasdaq OMX event management outsourcing
+        - Managed internal tool development with and workflow optimization
+        - Live event & video production optimization and client specific customization
+        - Streamlined and automated workflow and added more mobile viewing options
+
+    - role: Systems Specialist
+      time: 02/2006 – 06/2010
+      company: Onstream Media | Pompano Beach, FL
+      details: |
+        - Responsible for all technical aspects of webcasting operations in FL, NY, & CA
+        - Managed Encoder, Server, Network, and Publishing Point redundancy projects
+        - Designed customized solutions for video analysis, automated backup recording, transcoding,
+        non-linear editing, signal acquisition, and legacy application support
+        - Responsible for designing, implementing, and maintaining all hosted webcasting
+        - configurations, client on-site locations, and mobile iEncode product lines
+        - Added new products lines for mobile encoding, on-site installations, and turn-key clients
+        - Created numerous out-of-the-box solutions to meet strict client demands
+        - Managed several ISP vendor changes (ATT, Internap, Level3...)
+        - Managed several CDN migrations (i.e. Limelight redundancy migration)
+        - Responsible for all resolving all tier III tech support
+
+    - role: Systems Specialist (contract)
+      time: 08/2005 – 12/2005
+      company: HP  | Espoo, Finland
+      details: |
+        - Major AD migration (separation) project for national energy company
+        - Responsible for new server deployments (Windows Server 2K / 2K3) on HP’s blade
+        - and DL server series in both the Fortum and Neste Oil server infrastructures
+        - Responsible for HP's “Release to Production” checklist
+        - Daily activities included monitoring and patching servers, and working with 3rd party
+        vendors on application server deployments
+
+    - role: Systems Administrator (contract)
+      time: 04/2004 – 07/2005
+      company: Catella Property  | Helsinki, Finland
+      details: |
+        - Jointly responsible for server migration from NT4 to 2K3
+        - Designed and deployed workstation migration from NT4 / 2K to XP SP2
+        - Designed and set up backup / restoration procedures and offsite backups
+        - Coordinated segregation and spinoff of corporate finance unit
+
+    - role: IT / AV Specialist
+      time: 06/2000 – 06/2003
+      company: 1-Verkko PrimeNet / Strategic Visions| Helsinki, Finland
+      details: |
+        - Responsible for multiple NT4 / 2K / XP workstations and multiple NT4 servers
+        - Maintained user office productivity suites, firewalls, and basic security needs
+        - Managed content & video production units as well as ondemand distribution systems
