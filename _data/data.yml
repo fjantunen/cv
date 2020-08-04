@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Frank Jantunen
-    tagline: Cloud Infrastructure Engineer | Systems Administrator | Streaming Solutions Architect | CDN Specialist
+    tagline: Cloud Infrastructure Engineer<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: frank@gmpeg.com
-    phone: +1.954.247.4254
+    phone: +1-954-247-4254
     website: gmpeg.com #do not add http://
     linkedin: frank.jantunen
     github:
@@ -109,10 +109,10 @@ experiences:
           - Bullet point
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: System Administration
         level: 98%
 
       - name: Javascript & jQuery
