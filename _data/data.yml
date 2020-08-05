@@ -41,8 +41,8 @@ sidebar:
       - item: System
         detail: 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8,  2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
 
-      - item: Snowboarding
-        detail:
+      - item: Server
+        detail: Active Directory, Exchange, SQL, SharePoint, File Sharing, S/FTP, LDAP, SSH, VPN, Anti-Virus, Anti-Malware, IDS, SCOM, SCCM, Storage, SSO, Backup
 
       - item: Cooking
         detail:
