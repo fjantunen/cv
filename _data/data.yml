@@ -26,10 +26,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    skills:
-        - subject: SYSTEM
-          details: 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8, 2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
-
     languages:
       - idiom: English
         level: Native
@@ -39,6 +35,10 @@ sidebar:
 
       - idiom: Spanish
         level: Novice
+
+skills:
+    - subject: SYSTEM
+      details: 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8, 2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
 
 career-profile:
     title: Summary
