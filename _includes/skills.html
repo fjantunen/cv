@@ -1,37 +1,43 @@
-{% assign education = site.data.data.skills
+{% assign skills = site.data.data.skills %}
+{% if skills %}
+  {% if site.data.data.sidebar.skills %}
+  <div class="skills-container container-block">
+
     <h2 class="container-block-title">
-      Skills
+      skills
     </h2>
 
-    {% for details in skills %}
+    {% for graduation in skills %}
     <div class="item">
-      <h4 class="subject">{{ skills.subject }}</h4>
-      <h5 class="details">{{ skills.details }}</h5>
+      <h4 class="subject">{{ graduation.subject }}</h4>
+      <h5 class="meta">{{ graduation.details }}</h5>
+      <div class="time">{{ graduation.time }}</div>
     </div><!--//item-->
     {% endfor %}
 
-  </div><!--//education-container-->
+  </div><!--//skills-container-->
   {% else %}
-  <section class="section skills-section">
+  <section class="section skillss-section">
 
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
       </span>
-      Skills
+      skills
     </h2>
 
-    {% for details in skills %}
+    {% for graduation in skills %}
     <div class="item">
 
       <div class="meta">
 
         <div class="upper-row">
-          <h3 class="subject">{{ skills.subject }}</h3>
+          <h3 class="subject">{{ graduation.subject }}</h3>
+          <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
 
-        <div class="details">{{ skills.details }}</div>
+        <div class="details">{{ graduation.details }}</div>
       </div><!--//meta-->
 
       {% if graduation.details %}
