@@ -15,7 +15,7 @@ sidebar:
     email: frank@gmpeg.com
     phone: +1-954-247-4254
     linkedin: frankjantunen
-    website: gmpeg.com #do not add http://
+    website: #do not add http://
     website2:  #do not add http://
     website3:  #do not add http://
     github:
@@ -44,8 +44,48 @@ sidebar:
       - item: Server
         detail: Active Directory, Exchange, SQL, SharePoint, File Sharing, S/FTP, LDAP, SSH, VPN, Anti-Virus, Anti-Malware, IDS, SCOM, SCCM, Storage, SSO, Backup
 
-      - item: Cooking
-        detail:
+      - item: Virtualization
+        detail: Nutanix, VirtualBox, VMWare, Hyper V, Virtual Layers, Portable Apps, Docker, App Virtualization, VDI, Virtual Desktops, Amazon Workspaces, Citrix Virtual Apps & Desktops
+
+      - item: Cloud
+        detail: GCP, AWS, Azure, NewCloud
+
+      - item: Storage
+        detail: ISILON, Rubrik, QNAP, Synology
+
+      - item: Monitoring
+        detail: Nagios, Grafana, SteelCentral, Datadog, PRTG
+
+      - item: Networking
+        detail: VLANs, WiFi, Networks, Firewalls, HP Managed Switches, Juniper, Cisco, Palo Alto, Sonic Wall, Firebox
+
+      - item: IAC / CI/CD PIPELINE
+        detail: Slack, PagerDuty, Datadog, GIT, Terraform, Concourse
+
+      - item: Web Based Apps
+        detail: Akamai EdgeControl, Limelight CONTROL, Streamzilla JetStream, Wikis, Wordpress, Wowza, Flash Media Server, Windows Media Services,  Dynamics CRM
+        VOIP Systems, SMS Gateways, LucidChart
+
+      - item: Audit
+        detail: ISO 27001 Compliance, ITIL, Process Management, Project Management, Forensic, Auditing
+
+      - item: Ticket Systems
+        detail: OVSD, OYNX, Spiceworks, JIRA, AHA
+
+      - item: Remote
+        detail: RDP, Citrix, Radmin, LogMeIn, GoToMyPC, TeamViewer, VNC, Netop, NoVNC, Google Remote Desktop, AMT / ILO / IPMI
+
+      - item: Imaging
+        detail: Acronis, Altris, Clonezilla DriveImage XML, Ghost, Ghost4Unix, Paragon, Hirens, UBCD, VDIs, Snapshots, Golden Images
+
+      - item: Multimedia
+        detail: ACDSee, Dreamweaver, Photoshop, Premiere, Vegas, Episode, OBS, FFMPEG,  Flash Media Encoder, Windows Media Encoder, Helix Media Encoder, Audio / Video Conferencing
+
+      - item: Marketing Tech
+        detail: Internet Marketing, SEO, Social Media Ads, Print On Demand (POD), Web Form Automation, Bots, Macro Automation, Web Scraping, Amazon AMS, Keyword Research, iMacros
+
+      - item: Misc
+        detail: Scripting, VCUs, ISDN, Legacy Support, Disaster Recovery, Business Continuity Planning, Workflow Optimization, Confluence, Wiki, KANBAN Agile, 6S, 8D
 
 career-profile:
     title: Summary
