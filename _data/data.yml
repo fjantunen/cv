@@ -65,8 +65,8 @@ education:
           - National Vocational Technical Honor Society (Top 2% Nationwide)
 
 skills:
-    - degree: SYSTEM
-      university: 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8, 2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
+    - subject: SYSTEM
+      details: 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, VISTA, 7, 8, 10, 2K, 2K8, 2K12, 2K16, PE, Embedded, CE, IOT, Ubuntu, CentOS, Debian
       time:
 
 experiences:
