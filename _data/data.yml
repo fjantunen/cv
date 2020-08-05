@@ -63,8 +63,7 @@ sidebar:
         detail: Slack, PagerDuty, Datadog, GIT, Terraform, Concourse
 
       - item: Web Based Apps
-        detail: Akamai EdgeControl, Limelight CONTROL, Streamzilla JetStream, Wikis, Wordpress, Wowza, Flash Media Server, Windows Media Services,  Dynamics CRM
-        VOIP Systems, SMS Gateways, LucidChart
+        detail: Akamai EdgeControl, Limelight CONTROL, Streamzilla JetStream, Wikis, Wordpress, Wowza, Flash Media Server, Windows Media Services,  Dynamics CRM, VOIP Systems, LucidChart
 
       - item: Audit
         detail: ISO 27001 Compliance, ITIL, Process Management, Project Management, Forensic, Auditing
