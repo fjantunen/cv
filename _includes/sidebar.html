@@ -21,6 +21,9 @@
   {% if sidebar.about %}
     {% include about.html %}
   {% endif %}
-  {% include education.html %}
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+  {% include languages.html %}
 
 </div><!--//sidebar-wrapper-->
