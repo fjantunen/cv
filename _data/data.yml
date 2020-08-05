@@ -4,18 +4,22 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-    skills: False
+    education: False # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Frank Jantunen
-    tagline: Boca Raton, FL
+    tagline: Cloud Infrastructure Engineer<br>Systems Administrator<br>Streaming Solutions Architect<br>CDN Specialist
     avatar: small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    skills:
+        title: Skills
+
+        toolset:
+          - name: <b>System</b><br><br> 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, Vista, 7, 8, 10, 2K, 2K8, 2K12, 2K16, CE, PE, IOT, Embedded, Ubuntu, CentOS, Debian
 
     # Sidebar links
     email: frank@gmpeg.com
     phone: +1-954-247-4254
     linkedin: frankjantunen
-    website:  #do not add http://
+    website: #do not add http://
     website2:  #do not add http://
     website3:  #do not add http://
     github:
@@ -62,14 +66,6 @@ education:
       time:
       details: |
           - National Vocational Technical Honor Society (Top 2% Nationwide)
-
-
-skills:
-    title: Skills
-
-    toolset:
-      - name: <b>System</b><br><br> 3.X, 95, 98, 98SE, NT4, ME, 2K, XP, Vista, 7, 8, 10, 2K, 2K8, 2K12, 2K16, CE, PE, IOT, Embedded, Ubuntu, CentOS, Debian
-
 
 experiences:
     - role: Infrastructure Engineer / Systems Administrator
