@@ -59,8 +59,8 @@ sidebar:
       - item: Networking
         detail: VLANs, WiFi, Networks, Firewalls, HP Managed Switches, Juniper, Cisco, Palo Alto, Sonic Wall, Firebox
 
-      - item: IAC / CI/CD PIPELINE
-        detail: Slack, PagerDuty, Datadog, GIT, Terraform, Concourse
+      - item: CI/CD Pipeline
+        detail: IAC, Slack, PagerDuty, Datadog, GIT, BitBucket, Terraform, Concourse, YAML, XML, JSON
 
       - item: Web Based Apps
         detail: Akamai EdgeControl, Limelight CONTROL, Streamzilla JetStream, Wikis, Wordpress, Wowza, Flash Media Server, Windows Media Services,  Dynamics CRM, VOIP Systems, LucidChart
